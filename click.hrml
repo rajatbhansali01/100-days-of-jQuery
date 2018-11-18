@@ -1,0 +1,18 @@
+<!DOCTYPE html>  
+<html>  
+<head>  
+<script src="https://ajax.googleapis.com/ajax/libs/jquery/1.11.2/jquery.min.js"></script>  
+<script>  
+$(document).ready(function(){  
+    $("p").click(function(){  
+        alert("Rajat from kiet.");  
+    });  
+});  
+</script>  
+</head>  
+<body>  
+<p>About Rajat</p>  
+</body>  
+</html>  
+
+ 
